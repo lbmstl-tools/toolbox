@@ -8,10 +8,6 @@ __pycache__/
 .vscode/
 
 # Submodules
-lbmstl-core/
-lbmstl-caps/
-lbmstl-centerlines/
-lbmstl-voxel/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
