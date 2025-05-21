@@ -1,0 +1,21 @@
+name: lbmstl
+channels:
+  - conda-forge
+dependencies:
+  # core
+  - python=3.10
+  - numpy>=1.23
+  - scipy
+  - trimesh
+  - click
+
+  # testing
+  - pytest
+
+  # for the example notebook / workflow
+  - plotly
+
+  # pip installer (your package)
+  - pip
+  - pip:
+    - .
