@@ -1,0 +1,16 @@
+[submodule "lbmstl-core"]
+	path = lbmstl-core
+	url = git@github.com:lbmstl-tools/lbmstl-core.git
+	branch = main
+[submodule "lbmstl-caps"]
+	path = lbmstl-caps
+	url = git@github.com:lbmstl-tools/lbmstl-caps.git
+	branch = main
+[submodule "lbmstl-centerlines"]
+	path = lbmstl-centerlines
+	url = git@github.com:lbmstl-tools/lbmstl-centerlines.git
+	branch = main
+[submodule "lbmstl-voxel"]
+	path = lbmstl-voxel
+	url = git@github.com:lbmstl-tools/lbmstl-voxel.git
+	branch = main
